@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AKVasudeva
+- 👋 Hi, I’m @akshay
 - 👀 I’m interested in Data Science and Machine Learning
 - 🌱 I’m currently learning git & Docker
 - 📫 Reach out to me on akshayvasudeva25@gmail.com
